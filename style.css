@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(33, 16, 61);
+    color: rgb(255, 196, 0);
+    font-family: "Merriweather";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0px;
+}
